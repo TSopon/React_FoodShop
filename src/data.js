@@ -2,7 +2,7 @@ export const shopdata =[{
     id: 1,
     name: "โกอ่างข้าวมันไก่ประตูน้ำ",
     img: "https://lh5.googleusercontent.com/p/AF1QipOFHTPhdE29SPZax2t7UFJK25a9s6jDw0iSm1xb=w408-h306-k-no",
-    detail:  `ร้านข้าวมันได่ยอดฮิต `,
+    detail:  `ร้านข้าวมันไก่ยอดฮิต `,
     address:  `960 962 ถนน เพชรบุรี แขวง มักกะสัน เขตราชเทวี กรุงเทพมหานคร 10400`
 },
 {
