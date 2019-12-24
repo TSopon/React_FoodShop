@@ -7,14 +7,14 @@ export const shopdata =[{
 },
 {
     id: 2,
-    name: "โกอ่างข้าวมันไก่ประตูน้ำ",
+    name: "YAKINIKU",
     img: "https://lh5.googleusercontent.com/p/AF1QipNB-YDqRtart_4kuDlQIimlRj1fklUQvJ2IHruR=w408-h272-k-no",
     detail:  `เนื้อย่างเจ้าดัง`,
     address:  `ซอย สุขุมวิท 49 ซอย พร้อมมิตร แขวง คลองเตยเหนือ เขตวัฒนา กรุงเทพมหานคร 10110`
 },
 {
     id: 3,
-    name: "โกอ่างข้าวมันไก่ประตูน้ำ",
+    name: "ออน ล๊อก หยุ่น",
     img: "https://lh5.googleusercontent.com/p/AF1QipOlWY2KHgSNmUbxhWtoTtYU-k9qLQifdrkDumg-=w408-h306-k-no",
     detail:  `อาหารเช้าสุดอร่อย`,
     address:  `72 ถนน เจริญกรุง แขวง วังบูรพาภิรมย์ เขตพระนคร กรุงเทพมหานคร 10200`
